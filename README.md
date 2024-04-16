@@ -1,5 +1,7 @@
 # Development environment for creating unofficial Scratch extensions
 
+`https://sinbrive.github.io/scratch-extension-dev/scratch/`
+
 This is a repo for [my workshop](https://www.eventbrite.co.uk/e/workshop-write-your-own-scratch-extension-tickets-533502218497) at the [Raspberry Pi Clubs Conference](https://www.raspberrypi.org/clubs-conference-2023/) - about how to create your own custom blocks for Scratch.
 
 This repo has [instructions](./INSTRUCTIONS.md), a template extension, and an online hosted development environment, so you can create your own Scratch extensions using only a web browser. No local developmnent tools or other software is needed.
